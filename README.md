@@ -1,7 +1,78 @@
-# INF2009-Project
+# INF2009-Project-Magic Mirror
 
-This repository contains the code and configurations for setting up and running various applications on Raspberry Pi 4 and Raspberry Pi 5 devices. Follow the instructions below to properly set up each component.
+This repository contains the documentation and diary of our development process, including problem statements, hardware components, testing logs, and evaluations of different LLMs. It also contains the code and configurations for setting up and running various applications on Raspberry Pi 4 and Raspberry Pi 5 devices under the section of setting up. Follow the instructions below to properly set up each component.
 
+## Problem Statement
+
+The goal of this project is to build an interactive Magic Mirror that integrates various sensors and an LLM-powered assistant for real-time data display and voice interactions. The system should provide:
+- Real-time health monitoring (body temperature, heart rate, humidity, etc.)
+- Voice command capabilities using speech-to-text (STT)
+- AI-powered responses using LLMs
+- Integration with MQTT for IoT-based data transfer
+
+## Components Used
+
+### Hardware:
+- Raspberry Pi 4 : Dedicated to collecting and publishing sensor data
+- Raspberry Pi 5 : Main controller running the MagicMirror² and LLM
+- Temperature-Humidity Sensor (AM2302) : Monitors ambient temperature and humidity
+- 60GHz mmWave Module (MR60BHA1) : Detects heart rate and respiratory activity
+- Logitech USB Webcam : Captures real-time video feed for facial/user detection
+- Ultrasonic Sensor : Detects user proximity to the mirror
+- Bluetooth Speaker : Outputs voice feedback and audio responses
+- Body Temperature : Measures user body temperature
+
+### Software:
+- MagicMirror² : Modular smart mirror platform for displaying widgets/data
+- MQTT : Lightweight protocol for device-to-device communication
+- Vosk API : Provides offline speech recognition
+- PiperTTS : Converts text to natural-sounding speech
+- MQTT Client Module (MagicMirror²) : Enables MQTT integration within MagicMirror²
+- Flask : Hosts custom web dashboard and REST API
+
+## Building of the Magic Mirror
+
+### Items needed to build the two-way mirror:
+1) A2 acrylic sheet  
+2) Solar film  
+3) A1 photo frame  
+4) Wooden boards  
+5) Used monitor  
+
+We had to construct our own two-way mirror as it was difficult to find a ready-made one. To achieve this, we used solar film and attached it to an acrylic sheet to mimic a magic mirror. Additionally, we built a custom frame that was large enough to hold the "mirror," the monitor, and all the hardware sensors that would be attached to the back of the mirror. Additionally we needed to test if the sensors would be able to pass through the acrylic sheet and thus we found out 2 of the sensors could not pass through it which are the ultrasonic sensor and the body temperature thus we had to find a way to attached it.
+
+Below are some pictures documenting the building process of the magic mirror:
+![Building Process 1](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\1.jpg)  
+![Building Process 2](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\2.jpg)  
+![Building Process 3](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\3.jpg)
+![Building Process 4](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\4.jpg)  
+![Building Process 5](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\5.jpg)  
+![Building Process 6](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\6.jpg)  
+![Building Process 7](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\7.jpg)  
+![Building Process 8](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\8.jpg) 
+
+### LLM Comparison Tests
+| Model | Response Time | Strengths | 
+|--------|------------|---------|------------|
+| Phi | 369.7seconds | Appropriate Analysis/Response | 
+| Tinyllama | 203.5seconds | Inaccurate Analysis/Response  | 
+| Qwen2.5:3B | 307.7seconds | Appropriate Analysis/Response | 
+
+### Conclusion: Why We Chose Qwen2.5:3B  
+
+We selected **Qwen2.5:3B** for the Magic Mirror project due to its **appropriate analysis/response** and a response time (307.7 seconds) that offered a good balance between performance and accuracy. While **TinyLlama** had the fastest response time (203.5 seconds), its analysis was inaccurate, making it less suitable for our needs. **Phi** provided appropriate analysis but had the longest response time (369.7 seconds), which could impact the system's responsiveness. Qwen2.5:3B provided the best combination of **accuracy and performance**, making it the ideal choice for our project.  
+
+Below are the screenshot result of each LLM: 
+#### Screenshoot of Phi 
+![SS of Phi](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\Phi.jpg)  
+#### Screenshoot of Tinyllama 
+![SS of Tinyllama](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\Tinyllama.jpg)  
+#### Screenshoot of Qwen 
+![SS of Qwen](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\qwen.jpg)  
+
+
+
+# Setting Up
 ## Cloning the Repository
 
 Begin by cloning this repository onto both the Raspberry Pi 4 and Raspberry Pi 5 devices:
