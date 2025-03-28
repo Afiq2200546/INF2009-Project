@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Face Recognition Login</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+  />
+  <style>
+    body {
+      background: linear-gradient(135deg, #d1c4e9, #f3e5f5);
+      font-family: 'Roboto', sans-serif;
+    }
+    .container {
+      max-width: 450px;
+      margin-top: 80px;
+      background: #ffffff;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      text-align: center;
+    }
+    .loading-icon {
+      width: 80px;
+      height: 80px;
+      border: 8px solid #e0e0e0;
+      border-top: 8px solid #5e35b1;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 20px auto;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .status-text {
+      font-size: 18px;
+      font-weight: 500;
+      color: #424242;
+      margin-top: 15px;
+    }
+    .btn {
+      width: 100%;
+      margin-top: 20px;
+      transition: background-color 0.3s ease;
+    }
+    .btn-secondary:hover {
+      background-color: #7e57c2;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="mb-3">Face Recognition Login</h2>
+    <p class="status-text">Please look into the camera...</p>
+    <div class="loading-icon"></div>
+    <button id="retry-btn" class="btn btn-secondary d-none">Retry</button>
+  </div>
+
+  <script>
+    function startFaceLogin() {
+      fetch("/face-login")
+        .then(response => response.json())
+        .then(data => {
+          if (data.success) {
+            window.location.href = "/";
+          } else {
+            document.querySelector(".status-text").textContent = data.error || "Face not recognized. Try again.";
+            document.querySelector(".loading-icon").style.display = "none";
+            document.getElementById("retry-btn").classList.remove("d-none");
+          }
+        })
+        .catch(error => {
+          console.error("Error:", error);
+          document.querySelector(".status-text").textContent = "An error occurred. Please try again.";
+          document.querySelector(".loading-icon").style.display = "none";
+          document.getElementById("retry-btn").classList.remove("d-none");
+        });
+    }
+
+    window.onload = function() {
+      startFaceLogin();
+    };
+
+    document.getElementById("retry-btn").addEventListener("click", function() {
+      location.reload();
+    });
+  </script>
+</body>
+</html>

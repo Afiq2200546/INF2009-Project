@@ -1,0 +1,5767 @@
+{
+    "username": "Zac",
+    "age": "27",
+    "records": [
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:20"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:20"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:21"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:22"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:22"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:23"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.6%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:24"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:24"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:25"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:25"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:25"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:27"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:27"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:27"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:29"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:29"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:29"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:30"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:30"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:31"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:31"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:31"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:33"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:33"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:33"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:35"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:36"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:36"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:37"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:38"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:38"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:39"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:40"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:40"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:41"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:42"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:42"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:43"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.5%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:45"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:45"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:45"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:47"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:47"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:47"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:49"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:49"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:49"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:51"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:51"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:51"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:53"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:54"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:54"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:55"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:56"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:56"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:57"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:58"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:58"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:41:59"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:00"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:01"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:01"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:03"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:03"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:03"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:05"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:05"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:05"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:07"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:07"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:07"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:09"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:09"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:10"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:11"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:12"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:12"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:13"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:14"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:14"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:15"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:16"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:16"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:17"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:19"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:19"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:19"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:21"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:21"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:21"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:23"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:23"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:23"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:25"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:25"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:25"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:27"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:28"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:28"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:29"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:30"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:30"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:31"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:32"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:32"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:33"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:34"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:34"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:35"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:37"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:37"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:37"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:39"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:39"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:39"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:41"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:41"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:41"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:43"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:43"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:43"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:45"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:46"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:46"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:47"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:48"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:48"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:49"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:50"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:50"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:51"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:52"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:52"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:53"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:55"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:55"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:55"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:57"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:57"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:57"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:59"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:59"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:42:59"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:01"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:01"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:01"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:03"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:04"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:04"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:05"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:06"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:06"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:07"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:08"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "96.9%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:08"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "96.9%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:09"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "96.9%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:10"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:10"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:11"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:13"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:13"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:13"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:15"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:15"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:15"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:17"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:17"
+        },
+        {
+            "heartrate": "68 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:17"
+        },
+        {
+            "heartrate": "68 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:19"
+        },
+        {
+            "heartrate": "68 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:19"
+        },
+        {
+            "heartrate": "68 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:19"
+        },
+        {
+            "heartrate": "65 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:21"
+        },
+        {
+            "heartrate": "65 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:22"
+        },
+        {
+            "heartrate": "65 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:22"
+        },
+        {
+            "heartrate": "64 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:23"
+        },
+        {
+            "heartrate": "64 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:24"
+        },
+        {
+            "heartrate": "64 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:24"
+        },
+        {
+            "heartrate": "64 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:25"
+        },
+        {
+            "heartrate": "64 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:26"
+        },
+        {
+            "heartrate": "64 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:26"
+        },
+        {
+            "heartrate": "67 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:27"
+        },
+        {
+            "heartrate": "67 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:28"
+        },
+        {
+            "heartrate": "67 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:28"
+        },
+        {
+            "heartrate": "71 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:29"
+        },
+        {
+            "heartrate": "71 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:31"
+        },
+        {
+            "heartrate": "71 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:31"
+        },
+        {
+            "heartrate": "71 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:31"
+        },
+        {
+            "heartrate": "71 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:33"
+        },
+        {
+            "heartrate": "71 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:33"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:33"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:35"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:35"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:35"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:37"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:37"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:37"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:39"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:40"
+        },
+        {
+            "heartrate": "78 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:40"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:41"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:42"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:42"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:43"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:44"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:44"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:45"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:46"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:46"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:47"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:49"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:51"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:51"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:51"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:53"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:53"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:53"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:55"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:55"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:55"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:57"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:58"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:58"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:43:59"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:00"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:00"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:01"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:02"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:02"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:03"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:04"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:04"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:05"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:07"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:07"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:07"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:09"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:09"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:09"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:11"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:11"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:11"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:13"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:13"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:13"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:15"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:16"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:16"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:17"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:18"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:18"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:19"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:20"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:20"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:21"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.0%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:22"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:23"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:23"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:25"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:25"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:25"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:27"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:27"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:27"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:29"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:29"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:29"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:31"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:32"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:32"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:33"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:34"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:34"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:35"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:36"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:36"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:37"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:38"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:38"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:39"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:41"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:41"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:41"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:43"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:43"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:43"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:45"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:45"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:45"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:47"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:47"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:47"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:49"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:50"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:50"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:51"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:52"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:52"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:53"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:54"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:54"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:55"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:56"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:56"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:57"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:59"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:59"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:44:59"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:01"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:01"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:01"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:03"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:03"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:03"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:05"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:05"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:05"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:07"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:08"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:08"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:09"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:10"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:10"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:11"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:12"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:12"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:13"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:14"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:14"
+        },
+        {
+            "heartrate": "66 bpm",
+            "temperature": "29.2 C / 84.6 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:45:15"
+        },
+        {
+            "heartrate": "77 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:26"
+        },
+        {
+            "heartrate": "77 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:26"
+        },
+        {
+            "heartrate": "77 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:26"
+        },
+        {
+            "heartrate": "77 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:26"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:27"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:29"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:29"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:29"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:31"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:31"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:31"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:31"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:31"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:33"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:33"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:33"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:35"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:35"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:36"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:36"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:36"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:37"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:38"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:38"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:39"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:40"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:40"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:41"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:41"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:41"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:42"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:42"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:43"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:45"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:45"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:45"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:46"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:46"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:47"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:47"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:47"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:49"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:49"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:49"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:51"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:51"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:51"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:51"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:51"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:53"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:54"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:54"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:55"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:56"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:56"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:56"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:56"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:57"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:58"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:58"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:46:59"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:00"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:00"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:01"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:01"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:01"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:03"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:03"
+        },
+        {
+            "heartrate": "86 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:03"
+        },
+        {
+            "heartrate": "86 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:05"
+        },
+        {
+            "heartrate": "86 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:05"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:05"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:06"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:06"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:07"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:07"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:07"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:09"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:09"
+        },
+        {
+            "heartrate": "99 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:09"
+        },
+        {
+            "heartrate": "99 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:11"
+        },
+        {
+            "heartrate": "99 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:11"
+        },
+        {
+            "heartrate": "103 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:11"
+        },
+        {
+            "heartrate": "103 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:12"
+        },
+        {
+            "heartrate": "103 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:12"
+        },
+        {
+            "heartrate": "103 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:13"
+        },
+        {
+            "heartrate": "103 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:14"
+        },
+        {
+            "heartrate": "103 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:14"
+        },
+        {
+            "heartrate": "101 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:15"
+        },
+        {
+            "heartrate": "101 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:16"
+        },
+        {
+            "heartrate": "101 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:16"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:17"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:18"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:18"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:19"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:21"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:21"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:21"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:23"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:23"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:23"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:25"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:25"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:25"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:27"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:27"
+        },
+        {
+            "heartrate": "86 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:27"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:29"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:30"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:30"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:31"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:32"
+        },
+        {
+            "heartrate": "84 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:32"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:33"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:34"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:34"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:35"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:36"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:36"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:37"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:39"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:39"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:39"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:41"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:41"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:41"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:43"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:43"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:43"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:45"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:45"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:45"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:47"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:48"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:48"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:49"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:50"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:50"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:51"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:52"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:52"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:53"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:54"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:54"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:55"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:57"
+        },
+        {
+            "heartrate": "81 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:57"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:57"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:59"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:47:59"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:00"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:01"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:01"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:02"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:03"
+        },
+        {
+            "heartrate": "96 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:03"
+        },
+        {
+            "heartrate": "95 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:04"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:06"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:06"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:06"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:08"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:08"
+        },
+        {
+            "heartrate": "93 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:08"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:10"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:10"
+        },
+        {
+            "heartrate": "90 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:10"
+        },
+        {
+            "heartrate": "87 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:12"
+        },
+        {
+            "heartrate": "87 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:12"
+        },
+        {
+            "heartrate": "87 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:13"
+        },
+        {
+            "heartrate": "87 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:14"
+        },
+        {
+            "heartrate": "87 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:15"
+        },
+        {
+            "heartrate": "87 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:15"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:16"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:17"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:17"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:18"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:19"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:19"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:20"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:22"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:22"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:22"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:24"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:24"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:24"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:26"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:26"
+        },
+        {
+            "heartrate": "74 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:26"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:28"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:28"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:28"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:30"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:31"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:31"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:32"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:33"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:33"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:34"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:35"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:35"
+        },
+        {
+            "heartrate": "88 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:36"
+        },
+        {
+            "heartrate": "88 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:37"
+        },
+        {
+            "heartrate": "88 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:37"
+        },
+        {
+            "heartrate": "88 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:38"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:40"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:40"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:40"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:42"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:42"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:42"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:44"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:44"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:44"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:46"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:46"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:46"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:48"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:49"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:49"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:50"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:51"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:51"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:52"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:53"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:53"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:54"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:55"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:55"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:56"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:58"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:58"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:48:58"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:00"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:00"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:00"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:02"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:02"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:02"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:04"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:04"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:04"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:06"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:07"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:07"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:08"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:09"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:09"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:10"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:11"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:11"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:12"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:13"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:13"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:14"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:16"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:16"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:16"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:18"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:18"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:18"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:20"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:20"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:20"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:22"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:22"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:22"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:24"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:25"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:25"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:26"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:27"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:27"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:28"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:29"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:29"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:30"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:31"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:31"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:32"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:34"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:34"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:34"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:36"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:36"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:36"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:38"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:38"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:38"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:40"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:40"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:40"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:42"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:43"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:43"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:44"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:45"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:45"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:46"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:47"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:47"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:48"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:49"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:49"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:50"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:52"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:52"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:52"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:54"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:54"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:54"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:56"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:56"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:56"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:58"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:59"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:49:59"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:00"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:01"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:01"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:02"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:03"
+        },
+        {
+            "heartrate": "92 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:03"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:04"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:05"
+        },
+        {
+            "heartrate": "91 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:05"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:06"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:08"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:08"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:08"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:10"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:10"
+        },
+        {
+            "heartrate": "75 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:10"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:12"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:12"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:12"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:14"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:14"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:14"
+        },
+        {
+            "heartrate": "65 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:16"
+        },
+        {
+            "heartrate": "65 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:17"
+        },
+        {
+            "heartrate": "65 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:17"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:18"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:19"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:19"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:20"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:21"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:21"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:22"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:23"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:23"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:24"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:26"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:26"
+        },
+        {
+            "heartrate": "69 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:26"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:28"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:28"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:28"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:30"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:30"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:30"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:32"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:32"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:32"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:34"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:35"
+        },
+        {
+            "heartrate": "72 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:35"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:36"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:37"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:37"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:38"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:39"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:39"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:40"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:41"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:41"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:42"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:44"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:44"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:44"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:46"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:46"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:46"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:48"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:48"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:48"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:50"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:50"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:50"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:52"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:53"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:53"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:54"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:55"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:55"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:56"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:57"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:57"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:58"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:59"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:50:59"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:00"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:02"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.1%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:02"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:02"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:04"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:04"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:04"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:06"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:06"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:06"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:08"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:08"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:08"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:10"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:11"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:11"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:12"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:13"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:13"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:14"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:15"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:15"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:16"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:17"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:17"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:18"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:20"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:20"
+        },
+        {
+            "heartrate": "73 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:20"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:22"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:22"
+        },
+        {
+            "heartrate": "76 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:22"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:24"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:24"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:24"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:26"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:26"
+        },
+        {
+            "heartrate": "79 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:26"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:28"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:29"
+        },
+        {
+            "heartrate": "82 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:29"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:30"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:31"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:31"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:32"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:33"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:33"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:34"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:35"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:35"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:36"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:38"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.2%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:38"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:38"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:40"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:40"
+        },
+        {
+            "heartrate": "85 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:40"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:42"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:42"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:42"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:44"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.4%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:44"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:45"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.1 C / 84.4 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:46"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:47"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:47"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:48"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:49"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:49"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:50"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:51"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:51"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:52"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:54"
+        },
+        {
+            "heartrate": "83 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:54"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:54"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:56"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:56"
+        },
+        {
+            "heartrate": "89 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:56"
+        },
+        {
+            "heartrate": "94 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:58"
+        },
+        {
+            "heartrate": "94 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:58"
+        },
+        {
+            "heartrate": "94 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:51:58"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:00"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:00"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:00"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:02"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:03"
+        },
+        {
+            "heartrate": "97 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:03"
+        },
+        {
+            "heartrate": "100 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:04"
+        },
+        {
+            "heartrate": "100 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:05"
+        },
+        {
+            "heartrate": "100 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:05"
+        },
+        {
+            "heartrate": "100 bpm",
+            "temperature": "29.0 C / 84.2 F",
+            "humidity": "97.3%",
+            "bodytemp": "35",
+            "time_recorded": "2025-03-21 14:52:06"
+        },
+        {
+            "heartrate": 0,
+            "temperature": "29.9 C / 85.8 F",
+            "humidity": "99.9%",
+            "bodytemp": 30.79,
+            "time_recorded": "2025-03-26 15:20:42"
+        }
+    ]
+}

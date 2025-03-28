@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Register</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+  <style>
+    body {
+      background: linear-gradient(135deg, #e0f7fa, #ffffff);
+      font-family: 'Roboto', sans-serif;
+    }
+    .card {
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .btn {
+      transition: background-color 0.3s ease;
+    }
+    .btn-primary:hover {
+      background-color: #0069d9;
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-5">
+    <div class="card mx-auto" style="max-width: 400px;">
+      <div class="card-body">
+        <h2 class="text-center mb-4">Register</h2>
+        <form id="register-form">
+          <!-- USERNAME -->
+          <div class="mb-3">
+            <label for="username" class="form-label">Username</label>
+            <input 
+              type="text" 
+              name="username" 
+              id="username" 
+              class="form-control" 
+              required
+            />
+          </div>
+          <!-- DATE OF BIRTH -->
+          <div class="mb-3">
+            <label for="dob" class="form-label">Date of Birth</label>
+            <input
+              type="date"
+              name="date_of_birth"
+              id="dob"
+              class="form-control"
+              required
+            />
+          </div>
+          <!-- SCHEDULE LINK -->
+          <div class="mb-3">
+            <label for="schedule_link" class="form-label">Schedule Link</label>
+            <input 
+              type="url" 
+              name="schedule_link" 
+              id="schedule_link" 
+              class="form-control" 
+              required
+            />
+          </div>
+          <!-- CAPTURE + CLEAR -->
+          <div class="mb-3 d-flex justify-content-between">
+            <button type="button" id="capture-btn" class="btn btn-primary">Capture Image</button>
+            <button type="button" id="clear-btn" class="btn btn-danger">Clear Images</button>
+          </div>
+          <!-- PREVIEW IMAGES -->
+          <div id="captured-images" class="d-flex flex-wrap justify-content-center mt-3"></div>
+          <!-- REGISTER -->
+          <button 
+            type="submit" 
+            id="register-btn" 
+            class="btn btn-success w-100 mt-4" 
+            disabled
+          >
+            Register
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let capturedImages = [];
+
+    // Function to prevent image caching by adding a timestamp
+    function preventCache(imagePath) {
+      return `${imagePath}?t=${new Date().getTime()}`;
+    }
+
+    // Validate whether to enable the "Register" button
+    function validateForm() {
+      const registerBtn = document.getElementById("register-btn");
+      const captureBtn = document.getElementById("capture-btn");
+      let username = document.getElementById("username").value.trim();
+      let dob = document.getElementById("dob").value.trim();
+      let scheduleLink = document.getElementById("schedule_link").value.trim();
+      if (capturedImages.length === 5 && username !== "" && dob !== "" && scheduleLink !== "") {
+        registerBtn.disabled = false;
+        captureBtn.disabled = true;
+      } else {
+        registerBtn.disabled = true;
+        captureBtn.disabled = false;
+      }
+    }
+
+    // Enable inputs after clearing images
+    function enableInputs() {
+      document.getElementById("capture-btn").disabled = false;
+      document.getElementById("register-btn").disabled = true;
+    }
+
+    // CLEAR IMAGES
+    document.getElementById("clear-btn").addEventListener("click", function() {
+      let username = document.getElementById("username").value.trim();
+      if (!username) {
+        alert("Enter a username first!");
+        return;
+      }
+      fetch("/clear-images", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: `username=${encodeURIComponent(username)}`
+      })
+      .then(response => response.json())
+      .then(data => {
+        alert(data.message);
+        document.getElementById("captured-images").innerHTML = "";
+        capturedImages = [];
+        enableInputs();
+        validateForm();
+      })
+      .catch(err => console.error("Error clearing images:", err));
+    });
+
+    // CAPTURE IMAGE
+    document.getElementById("capture-btn").addEventListener("click", function() {
+      let username = document.getElementById("username").value.trim();
+      if (!username) {
+        alert("Enter a username first!");
+        return;
+      }
+      if (capturedImages.length >= 5) {
+        alert("You must capture exactly 5 images.");
+        return;
+      }
+      fetch("/capture", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: `username=${encodeURIComponent(username)}`
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (!data.success) {
+          alert(data.error || "Capture failed.");
+        } else {
+          let container = document.getElementById("captured-images");
+          let imgElement = document.createElement("img");
+          let imgPath = preventCache(`/temp/${username}/${data.image}`);
+          imgElement.src = imgPath;
+          imgElement.width = 100;
+          imgElement.height = 100;
+          imgElement.classList.add("m-1", "rounded");
+          container.appendChild(imgElement);
+          capturedImages.push(imgPath);
+          validateForm();
+        }
+      })
+      .catch(err => console.error("Error capturing images:", err));
+    });
+
+    // Reset images and enable inputs when username changes
+    document.getElementById("username").addEventListener("input", function() {
+      document.getElementById("captured-images").innerHTML = "";
+      capturedImages = [];
+      enableInputs();
+      validateForm();
+    });
+    // Validate when DOB or schedule link is updated
+    document.getElementById("dob").addEventListener("input", validateForm);
+    document.getElementById("schedule_link").addEventListener("input", validateForm);
+
+    // REGISTER form submission
+    document.getElementById("register-form").addEventListener("submit", function(event) {
+      event.preventDefault();
+      let username = document.getElementById("username").value.trim();
+      let dateOfBirth = document.getElementById("dob").value.trim();
+      let scheduleLink = document.getElementById("schedule_link").value.trim();
+
+      if (username === "" || capturedImages.length !== 5 || dateOfBirth === "" || scheduleLink === "") {
+        alert("Please fill all fields and capture exactly 5 images before registering.");
+        return;
+      }
+
+      let formData = new FormData();
+      formData.append("username", username);
+      formData.append("date_of_birth", dateOfBirth);
+      formData.append("schedule_link", scheduleLink);
+
+      fetch("/register", {
+        method: "POST",
+        body: formData,
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (data.success) {
+          alert(data.message);
+          window.location.href = "/face-login-page";
+        } else {
+          alert(data.error || "Registration failed.");
+        }
+      })
+      .catch(err => console.error("Error registering:", err));
+    });
+  </script>
+</body>
+</html>
+
