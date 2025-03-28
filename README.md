@@ -5,10 +5,10 @@ This repository contains the documentation and diary of our development process,
 ## Problem Statement
 
 The goal of this project is to build an interactive Magic Mirror that integrates various sensors and an LLM-powered assistant for real-time data display and voice interactions. The system should provide:
-- Real-time health monitoring (body temperature, heart rate, humidity, etc.)
-- Voice command capabilities using speech-to-text (STT)
-- AI-powered responses using LLMs
-- Integration with MQTT for IoT-based data transfer
+- Health Tracking: Monitors heart rate, body temperature, ambient conditions, and humidity in real time.
+- Smart Dashboard: Displays your schedule, weather, and essential updates at a glance.
+- Facial Recognition: Provides secure, personalized access to users.
+- Voice Control: Enables speech-to-text commands for hands-free interaction.
 
 ## Components Used
 
@@ -40,6 +40,10 @@ The goal of this project is to build an interactive Magic Mirror that integrates
 5) Used monitor  
 
 We had to construct our own two-way mirror as it was difficult to find a ready-made one. To achieve this, we used solar film and attached it to an acrylic sheet to mimic a magic mirror. Additionally, we built a custom frame that was large enough to hold the "mirror," the monitor, and all the hardware sensors that would be attached to the back of the mirror. Additionally we needed to test if the sensors would be able to pass through the acrylic sheet and thus we found out 2 of the sensors could not pass through it which are the ultrasonic sensor and the body temperature thus we had to find a way to attached it.
+
+Below are the configuration for our project:
+To see it clearly download the drawio located in the github images folder. (images/configuration.drawio)
+![Configuration](images/configurations.png)  
 
 Below are some pictures documenting the building process of the magic mirror:
 ![Building Process 1](images/1.jpg)  
