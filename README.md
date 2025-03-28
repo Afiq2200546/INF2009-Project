@@ -43,7 +43,7 @@ We had to construct our own two-way mirror as it was difficult to find a ready-m
 
 Below are the configuration for our project:
 To see it clearly download the drawio located in the github images folder. (images/configuration.drawio)
-![Configuration](images/configurations.png)  
+![Configuration](images/Configuration.png)  
 
 Below are some pictures documenting the building process of the magic mirror:
 ![Building Process 1](images/1.jpg)  
