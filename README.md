@@ -53,7 +53,7 @@ Below are some pictures documenting the building process of the magic mirror:
 
 ### LLM Comparison Tests
 | Model | Response Time | Strengths | 
-|--------|------------|---------|------------|
+|--------|------------|---------|
 | Phi | 369.7seconds | Appropriate Analysis/Response | 
 | Tinyllama | 203.5seconds | Inaccurate Analysis/Response  | 
 | Qwen2.5:3B | 307.7seconds | Appropriate Analysis/Response | 
