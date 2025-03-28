@@ -33,11 +33,11 @@ The goal of this project is to build an interactive Magic Mirror that integrates
 ## Building of the Magic Mirror
 
 ### Items needed to build the two-way mirror:
-1) A2 acrylic sheet  
-2) Solar film  
-3) A1 photo frame  
-4) Wooden boards  
-5) Used monitor  
+1) A2 Transparent Acrylic Sheet  
+2) Silver Solar Film  
+3) Photo Frame  
+4) Wood Strips
+5) Monitor  
 
 We had to construct our own two-way mirror as it was difficult to find a ready-made one. To achieve this, we used solar film and attached it to an acrylic sheet to mimic a magic mirror. Additionally, we built a custom frame that was large enough to hold the "mirror," the monitor, and all the hardware sensors that would be attached to the back of the mirror. Additionally we needed to test if the sensors would be able to pass through the acrylic sheet and thus we found out 2 of the sensors could not pass through it which are the ultrasonic sensor and the body temperature thus we had to find a way to attached it.
 
