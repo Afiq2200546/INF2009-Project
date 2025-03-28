@@ -42,14 +42,14 @@ The goal of this project is to build an interactive Magic Mirror that integrates
 We had to construct our own two-way mirror as it was difficult to find a ready-made one. To achieve this, we used solar film and attached it to an acrylic sheet to mimic a magic mirror. Additionally, we built a custom frame that was large enough to hold the "mirror," the monitor, and all the hardware sensors that would be attached to the back of the mirror. Additionally we needed to test if the sensors would be able to pass through the acrylic sheet and thus we found out 2 of the sensors could not pass through it which are the ultrasonic sensor and the body temperature thus we had to find a way to attached it.
 
 Below are some pictures documenting the building process of the magic mirror:
-![Building Process 1](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\1.jpg)  
-![Building Process 2](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\2.jpg)  
-![Building Process 3](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\3.jpg)
-![Building Process 4](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\4.jpg)  
-![Building Process 5](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\5.jpg)  
-![Building Process 6](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\6.jpg)  
-![Building Process 7](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\7.jpg)  
-![Building Process 8](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\8.jpg) 
+![Building Process 1](images/1.jpg)  
+![Building Process 2](images/2.jpg)  
+![Building Process 3](images/3.jpg)
+![Building Process 4](images/4.jpg)  
+![Building Process 5](images/5.jpg)  
+![Building Process 6](images/6.jpg)  
+![Building Process 7](images/7.jpg)  
+![Building Process 8](images/8.jpg) 
 
 ### LLM Comparison Tests
 | Model | Response Time | Strengths | 
@@ -64,11 +64,11 @@ We selected **Qwen2.5:3B** for the Magic Mirror project due to its **appropriate
 
 Below are the screenshot result of each LLM: 
 #### Screenshoot of Phi 
-![SS of Phi](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\Phi.jpg)  
+![SS of Phi](images/Phi.jpg)  
 #### Screenshoot of Tinyllama 
-![SS of Tinyllama](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\Tinyllama.jpg)  
+![SS of Tinyllama](images/Tinyllama.jpg)  
 #### Screenshoot of Qwen 
-![SS of Qwen](C:\INF2009 Edge Computing\Edge Submission\PhotosOfBuildingOfMirror\qwen.jpg)  
+![SS of Qwen](images/qwen.jpg)  
 
 
 
