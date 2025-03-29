@@ -212,19 +212,19 @@ For each of the following directories and scripts, perform the steps below:
 ### Directories:
 - `Pi 5/central_code`
   - `age.py`
-	-	`bodytemp.py`
-	-	`heartrate.py`
-	-	`humidity.py`
-	-	`llm.py`
-	-	`name.py`
-	-	`temperature.py`
+  - `bodytemp.py`
+  - `heartrate.py`
+  - `humidity.py`
+  - `llm.py`
+  - `name.py`
+  - `temperature.py`
 - `Pi 5/heart_rate`
   - `app.py`
 - `Pi 5/stt`
   - `test_mic.py`
 - `Pi 5/web_interface_2`
   - `app.py`
-	-	`testing.py`
+  - `testing.py`
 
 ### Steps:
 
