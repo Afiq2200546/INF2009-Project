@@ -207,13 +207,24 @@ After installing Ollama, download the Qwen2.5:3B model. Detailed steps can be fo
 
 ## Setting Up and Running Python Scripts
 
-For each of the following directories, perform the steps below:
+For each of the following directories and scripts, perform the steps below:
 
 ### Directories:
 - `Pi 5/central_code`
+  - `age.py`
+	-	`bodytemp.py`
+	-	`heartrate.py`
+	-	`humidity.py`
+	-	`llm.py`
+	-	`name.py`
+	-	`temperature.py`
 - `Pi 5/heart_rate`
+  - `app.py`
 - `Pi 5/stt`
+  - `test_mic.py`
 - `Pi 5/web_interface_2`
+  - `app.py`
+	-	`testing.py`
 
 ### Steps:
 
